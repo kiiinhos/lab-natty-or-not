@@ -22,6 +22,3 @@ O e-book apresenta um guia completo sobre TypeScript, incluindo a instalação, 
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência enriquecedora. Utilizar ferramentas de IA generativa como o ChatGPT e o Canvas mostrou-se extremamente útil para a criação de conteúdos educativos de alta qualidade. Este projeto destaca o potencial das IAs na educação e na disseminação do conhecimento.
-
-## 🌐 Compartilhamento
-Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot. Não esqueça de nos marcar: DIO e falvojr.
