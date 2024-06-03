@@ -18,7 +18,7 @@ Este projeto explora o uso de TypeScript, uma linguagem de programação que adi
 ## 🚀 Resultados
 O e-book apresenta um guia completo sobre TypeScript, incluindo a instalação, configuração, tipos básicos, interfaces, classes, módulos, e exemplos práticos. O projeto demonstra como TypeScript pode ser integrado em um fluxo de desenvolvimento JavaScript, oferecendo maior segurança e escalabilidade.
 
-[Link para o e-book aqui]
+[Baixe o e-book aqui](typescript.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência enriquecedora. Utilizar ferramentas de IA generativa como o ChatGPT e o Canvas mostrou-se extremamente útil para a criação de conteúdos educativos de alta qualidade. Este projeto destaca o potencial das IAs na educação e na disseminação do conhecimento.
